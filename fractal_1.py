@@ -31,8 +31,8 @@ turtle.goto(-200, -200)
 turtle.pendown()
 
 # Задайте длину и глубину фрактала
-initial_length = 400
-fractal_depth = 6
+initial_length = 1000
+fractal_depth = 10
 
 # Нарисуем фрактал
 draw_fractal(initial_length, fractal_depth)
